@@ -87,7 +87,7 @@
     "babel-plugin-transform-require-ignore": "0.1.1",
     "daisyui": "1.16.2",
     "eslint": "8.3.0",
-    "eslint-config-next": "12.0.4",
+    "eslint-config-next": "12.3.4",
     "eslint-config-prettier": "8.3.0",
     "eslint-plugin-import": "2.25.3",
     "eslint-plugin-jsx-a11y": "6.5.1",
