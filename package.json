@@ -72,7 +72,7 @@
     "@storybook/addon-viewport": "6.3.12",
     "@storybook/react": "6.3.12",
     "@types/axios": "0.14.0",
-    "@types/geojson": "7946.0.8",
+    "@types/geojson": "7946.0.16",
     "@types/next-seo": "2.1.2",
     "@types/node": "16.11.9",
     "@types/react": "17.0.36",
